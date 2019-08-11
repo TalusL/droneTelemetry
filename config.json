@@ -1,0 +1,5 @@
+{
+  "tcpAddr": ":8087",
+  "serialPortName":"COM11",
+  "serialPortBaudRate": 57600
+}
